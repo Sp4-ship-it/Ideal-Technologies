@@ -1,0 +1,6 @@
+{
+  "name": "Ideal App",
+  "description": "Client app and digital portal for Ideal Technologies: service directory, hosting & domain ordering, hardware store, repair tracker, and Ideal Inside AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
